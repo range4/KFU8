@@ -1,0 +1,15 @@
+/Users/kaneki44/Projects/KFU8/KFU8/bin/Debug/net7.0/KFU8
+/Users/kaneki44/Projects/KFU8/KFU8/bin/Debug/net7.0/KFU8.deps.json
+/Users/kaneki44/Projects/KFU8/KFU8/bin/Debug/net7.0/KFU8.runtimeconfig.json
+/Users/kaneki44/Projects/KFU8/KFU8/bin/Debug/net7.0/KFU8.dll
+/Users/kaneki44/Projects/KFU8/KFU8/bin/Debug/net7.0/KFU8.pdb
+/Users/kaneki44/Projects/KFU8/KFU8/obj/Debug/net7.0/KFU8.csproj.AssemblyReference.cache
+/Users/kaneki44/Projects/KFU8/KFU8/obj/Debug/net7.0/KFU8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaneki44/Projects/KFU8/KFU8/obj/Debug/net7.0/KFU8.AssemblyInfoInputs.cache
+/Users/kaneki44/Projects/KFU8/KFU8/obj/Debug/net7.0/KFU8.AssemblyInfo.cs
+/Users/kaneki44/Projects/KFU8/KFU8/obj/Debug/net7.0/KFU8.csproj.CoreCompileInputs.cache
+/Users/kaneki44/Projects/KFU8/KFU8/obj/Debug/net7.0/KFU8.dll
+/Users/kaneki44/Projects/KFU8/KFU8/obj/Debug/net7.0/refint/KFU8.dll
+/Users/kaneki44/Projects/KFU8/KFU8/obj/Debug/net7.0/KFU8.pdb
+/Users/kaneki44/Projects/KFU8/KFU8/obj/Debug/net7.0/KFU8.genruntimeconfig.cache
+/Users/kaneki44/Projects/KFU8/KFU8/obj/Debug/net7.0/ref/KFU8.dll
